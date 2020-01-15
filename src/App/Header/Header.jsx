@@ -3,7 +3,7 @@ import './Header.scss'
 
 const Header = () => {
         return (
-            <Header className='Header'>My better Header</Header>
+            <Header className='Header'>My best Header</Header>
         )
 };
 
